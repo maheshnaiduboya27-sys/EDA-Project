@@ -1,4 +1,5 @@
 Title:  Employee performance score through EDA
+
 Problem statement: Employee performance is a key factor in organizational success. Understanding how performance scores are distributed and whether they vary across different work sessions can help organizations identify performance trends and improve workforce productivity.
 Objective:  This project aims to analyze employee performance score by examine work session, department, experience, gender, and location relate to performance.
 Tools Used: Python,Pandas,Matplotlib,seaborn.
