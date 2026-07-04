@@ -1,4 +1,4 @@
-Title:  Employee performance score through EDA
+# Title:  Employee performance score through EDA
 
 Problem statement: Employee performance is a key factor in organizational success. Understanding how performance scores are distributed and whether they vary across different work sessions can help organizations identify performance trends and improve workforce productivity.
 
