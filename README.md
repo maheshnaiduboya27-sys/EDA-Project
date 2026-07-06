@@ -16,4 +16,4 @@ Insights:
 
 3. Here female performance is decreases while experience increase so we have to train experience female 
 
-4.  in las angeles location IT are less performance score so we have to train IT employees more and In new Yark and Chicago HR performance is less so we have to perform
+4.  in las angeles location IT are less performance score so we have to train IT employees more and In new Yark and Chicago HR performance is less so we have to train
